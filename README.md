@@ -10,7 +10,7 @@ I'm Pamboy (17 y.o) ! :sunglasses:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Laravel](https://img.shields.io/static/v1?label=Laravel&message=https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png&color=red)
+![Laravel](https://img.shields.io/badge/Laravel-%23D90007.svg?style=for-the-badge&logo=Laravel&logoColor=white)
 
 :star: Here are some projects that I'm working on:
 
