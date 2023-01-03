@@ -14,7 +14,7 @@ I'm Pamboy (17 y.o) ! :sunglasses:
 
 :star: Here are some projects that I'm working on:
 
--   🇮🇩 I'am speaking with **Bahasa Indonesia**
+-   🇮🇩 I am speaking with **Bahasa Indonesia**
 -   :computer: I am working as **Lead DevOps Engineer**
 -   :monocle_face: Interested in everything **Cloud Native**
 -   :seedling: Currently learning **Golang**
