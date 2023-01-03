@@ -20,34 +20,6 @@ I'm Pamboy (17 y.o) ! :sunglasses:
 -   :penguin: **Linux** ... it does infinite loops in 5 seconds.
 
 <details>
-<summary>:trophy: Github Stats</summary>
-<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=moepoi">
-<img src="https://github-profile-trophy.vercel.app/?username=moepoi">
-</details>
-
-<br>
-
-<img src="https://img.anili.st/user/161753" width="500">
-
-<details>
-<summary>:bar_chart: Recent Anilist Activity</summary>
-  
-<!-- anilist_activity starts -->
-* [Dropped None](https://anilist.co/activity/498817757) of [Mahoutsukai Reimeiki](https://anilist.co/anime/133175)
-* [Watched episode 15](https://anilist.co/activity/498816534) of [Xing Yu Siwan Nian](https://anilist.co/anime/137704)
-* [Watched episode 42](https://anilist.co/activity/498816499) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
-* [Watched episode 19](https://anilist.co/activity/498816458) of [Wo Zai Xianjie Zheng Jifen](https://anilist.co/anime/155328)
-* [Watched episode 245](https://anilist.co/activity/498816417) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
-* [Completed None](https://anilist.co/activity/498816339) of [Xing Yuan Zhi Zhu](https://anilist.co/anime/141873)
-* [Watched episode 23](https://anilist.co/activity/498816269) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
-* [Paused watching None](https://anilist.co/activity/498815261) of [BASTARD!!: Ankoku no Hakaishin (ONA)](https://anilist.co/anime/144677)
-* [Paused watching None](https://anilist.co/activity/498815234) of [Changye Kaituozhe](https://anilist.co/anime/141861)
-* [Dropped None](https://anilist.co/activity/498815201) of [Engage Kiss](https://anilist.co/anime/146625)
-<!-- anilist_activity ends -->
-
-</details>
-
-<details>
 <summary>:tv: List Favorites Anime</summary>
   
 <!-- favorites_anime starts -->
