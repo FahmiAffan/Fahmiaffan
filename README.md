@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Pamboy ([17](https://github.com/moepoi/moepoi/commit/c15e0dc41a58149d47f7813f145259151a2a73c7) y.o) ! :sunglasses:
+I'm Pamboy (17 y.o) ! :sunglasses:
 
 :page_with_curl: I'm currently learning:
 <br><br>
