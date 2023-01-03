@@ -23,6 +23,6 @@ I'm Pamboy (17 y.o) ! :sunglasses:
 Feel free to contact me :yum:
 <br><br>
 
-<a href="https://www.linkedin.com/in/fahmi-affan-346287230" target="_blank"></a>
+<a href="https://www.linkedin.com/in/fahmi-affan-346287230" target="_blank"><img src="https://img.shields.io/badge/Linkedin-%40Fahmi%20Affan-blue"></a>
 <a href="mailto:moe@chocola.dev"><img src="https://img.shields.io/badge/Email-moe%40chocola.dev-orange"></a>
 <a href="https://moepoi.dev" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-moepoi.dev-red"></a>
