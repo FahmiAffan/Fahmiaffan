@@ -12,13 +12,12 @@ I'm Pamboy ([17](https://github.com/moepoi/moepoi/commit/c15e0dc41a58149d47f7813
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 :star: Here are some projects that I'm working on:
-- [Kitchen Counts](https://github.com/moepoi/Kitchen_Counts)
-- [Nekoya](https://github.com/Nekoya-Site)
-- [Easy Learn](https://github.com/Easy-Learn/App/releases/tag/v1.0.1)
-- [Neonime App](https://install.appcenter.ms/users/moepoi/apps/neonime/distribution_groups/public)
-- [Nepgear](https://t.me/NepgearBot)
-- [WhoisBot](https://t.me/WhoisBot)
-- [Moe API](https://beta.moe.team)
+
+-   :computer: I am working as **Lead DevOps Engineer**
+-   :monocle_face: Interested in everything **Cloud Native**
+-   :seedling: Currently learning **Golang**
+-   :heart: Open Source Software
+-   :penguin: **Linux** ... it does infinite loops in 5 seconds.
 
 <details>
 <summary>:trophy: Github Stats</summary>
@@ -128,9 +127,3 @@ Feel free to contact me :yum:
 <a href="https://linkedin.com/in/moepoi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-moepoi-informational"></a>
 <a href="mailto:moe@chocola.dev"><img src="https://img.shields.io/badge/Email-moe%40chocola.dev-orange"></a>
 <a href="https://moepoi.dev" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-moepoi.dev-red"></a>
-
--   :computer: I am working as **Lead DevOps Engineer**
--   :monocle_face: Interested in everything **Cloud Native**
--   :seedling: Currently learning **Golang**
--   :heart: Open Source Software
--   :penguin: **Linux** ... it does infinite loops in 5 seconds.
