@@ -23,7 +23,7 @@ I'm Pamboy (17 y.o) ! :sunglasses:
 Feel free to contact me :yum:
 <br><br>
 
+<a href="https://www.instagram.com/fahmiaffan07" target="_blank"><img src="https://img.shields.io/badge/Instagram-%40fahmiaffan07-C13584"></a>
 <a href="https://www.linkedin.com/in/fahmi-affan-346287230" target="_blank"><img src="https://img.shields.io/badge/Linkedin-%40Fahmi%20Affan-blue"></a>
 <a href="mailto:fahmiaffan07@gmail.com"><img src="https://img.shields.io/badge/Email-%40fahmiaffan07-orange"></a>
 <a href="https://fahmiaffan.com" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-fahmiaffan.com-red"></a>
-<a href="https://fahmiaffan.com" target="_blank"><img src="https://img.shields.io/badge/Instagram-%40fahmiaffan07-C13584"></a>
