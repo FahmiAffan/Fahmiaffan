@@ -29,5 +29,5 @@ Feel free to contact me :yum:
 <a href="mailto:fahmiaffan07@gmail.com"><img src="https://img.shields.io/badge/Email-%40fahmiaffan07-orange"></a>
 <a href="https://fahmiaffan.com" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-fahmiaffan.com-red"></a>
 
-** :fire MY Stats **
-https://github-readme-streak-stats.herokuapp.com/?user=Fahmiaffan
+
+[![MY GitHub stats:](https://github-readme-stats.vercel.app/api?username=Fahmiaffan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
