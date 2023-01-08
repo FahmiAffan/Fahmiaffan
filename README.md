@@ -30,6 +30,11 @@ Feel free to contact me :yum:
 <a href="https://fahmiaffan.com" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-fahmiaffan.com-red"></a>
 
 
+<p align = "center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Fahmiaffan&show_icons=true&theme=radical"></img>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahmiaffan&layout=compact&theme=radical"></img>
+</p>
+
 [![MY GitHub stats:](https://github-readme-stats.vercel.app/api?username=Fahmiaffan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahmiaffan&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
