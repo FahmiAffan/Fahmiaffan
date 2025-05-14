@@ -17,7 +17,7 @@ I'm Pamboy (17 y.o) ! :sunglasses:
 -   🇮🇩 I am speaking with **Bahasa Indonesia**
 -   :computer: I am working as **Front-end Engineer**
 -   :monocle_face: Interested in everything **Cloud Native**
--   :seedling: Currently learning **Golang**
+-   :seedling: Currently learning **Golang** , **Express**  and **Django**
 -   :heart: Open Source Software
 -   :penguin: **Linux** ... it does infinite loops in 5 seconds.
 
